@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/pradeepselva204.github.io/carshowroom/static/css/main.ef12d684.chunk.css",
+    "main.js": "/pradeepselva204.github.io/carshowroom/static/js/main.e5dd5028.chunk.js",
+    "main.js.map": "/pradeepselva204.github.io/carshowroom/static/js/main.e5dd5028.chunk.js.map",
+    "runtime-main.js": "/pradeepselva204.github.io/carshowroom/static/js/runtime-main.1946d370.js",
+    "runtime-main.js.map": "/pradeepselva204.github.io/carshowroom/static/js/runtime-main.1946d370.js.map",
+    "static/js/2.cc524f4c.chunk.js": "/pradeepselva204.github.io/carshowroom/static/js/2.cc524f4c.chunk.js",
+    "static/js/2.cc524f4c.chunk.js.map": "/pradeepselva204.github.io/carshowroom/static/js/2.cc524f4c.chunk.js.map",
+    "static/js/3.a2ad4bc1.chunk.js": "/pradeepselva204.github.io/carshowroom/static/js/3.a2ad4bc1.chunk.js",
+    "static/js/3.a2ad4bc1.chunk.js.map": "/pradeepselva204.github.io/carshowroom/static/js/3.a2ad4bc1.chunk.js.map",
+    "static/js/4.fad95e08.chunk.js": "/pradeepselva204.github.io/carshowroom/static/js/4.fad95e08.chunk.js",
+    "static/js/4.fad95e08.chunk.js.map": "/pradeepselva204.github.io/carshowroom/static/js/4.fad95e08.chunk.js.map",
+    "index.html": "/pradeepselva204.github.io/carshowroom/index.html",
+    "static/css/main.ef12d684.chunk.css.map": "/pradeepselva204.github.io/carshowroom/static/css/main.ef12d684.chunk.css.map",
+    "static/js/2.cc524f4c.chunk.js.LICENSE.txt": "/pradeepselva204.github.io/carshowroom/static/js/2.cc524f4c.chunk.js.LICENSE.txt",
+    "static/media/Car1.b464bf9b.jpg": "/pradeepselva204.github.io/carshowroom/static/media/Car1.b464bf9b.jpg",
+    "static/media/Car2.2171568d.jpg": "/pradeepselva204.github.io/carshowroom/static/media/Car2.2171568d.jpg",
+    "static/media/Car3.45d502e9.jpg": "/pradeepselva204.github.io/carshowroom/static/media/Car3.45d502e9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1946d370.js",
+    "static/js/2.cc524f4c.chunk.js",
+    "static/css/main.ef12d684.chunk.css",
+    "static/js/main.e5dd5028.chunk.js"
+  ]
+}
